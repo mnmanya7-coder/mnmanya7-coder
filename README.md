@@ -1,10 +1,10 @@
 # Hi, I'm Manya MN 👋
 
-### Electronics & Communication Engineering Undergraduate | AI/ML Research | Software Development
+### Electronics & Communication Engineering Undergraduate | AI/ML Research | Backend & Frontend Development
 
 I'm an undergraduate student researcher interested in building intelligent systems that connect machine learning, language models, semantic intelligence and real-world applications.
 
-My work spans AI research, frontend development, retrieval-augmented systems, embedded technologies and interdisciplinary engineering projects.
+My work spans AI research, frontend and backend development, retrieval-augmented systems, DevOps automation, embedded technologies and interdisciplinary engineering projects.
 
 ## 🔬 Research Interests
 
@@ -26,20 +26,25 @@ My work spans AI research, frontend development, retrieval-augmented systems, em
 
 **Electronics & Embedded Systems:** Arduino, Raspberry Pi, Embedded Systems, VLSI Design, Digital Signal Processing, MFCC Feature Extraction, LTspice
 
-**Development & Tools:** React, Vite, GitHub, Vercel, UI/UX Design, Frontend Development
+**Web & Backend Development:** React, Vite, Node.js, Express.js, REST APIs, JSON, CORS, HTML5, CSS, Frontend Development, Backend Development, UI/UX Design
+
+**DevOps & Development Tools:** Git, GitHub, GitHub Actions, CI/CD, YAML, HTMLHint, Google Lighthouse, GitHub Pages, Vercel
 
 ## 🚀 Featured Projects
 
 ### 1. SVASI – Semantic-Driven Video Annotation for Forensic Intelligence
+[View Repository](https://github.com/mnmanya7-coder/Forensic-Document-and-Video-Annotation-SVASI-)
+
 Collaborative research and development project exploring LLM-assisted video annotation and semantic intelligence.
 
 **My contributions:**
-- UI/UX design and frontend implementation
-- Development of the user-facing application interface
-- Chatbot interface integration
-- Collaboration on retrieval-augmented and agentic AI components
+- UI/UX design and frontend implementation.
+- Development of the user-facing application interface.
+- Chatbot interface integration.
+- Collaboration on retrieval-augmented and agentic AI components.
 
 ### 2. Forensic Case Document Assistant
+
 A research project to support question answering over lengthy forensic case documents.
 
 - Co-developing a RAG-based question-answering assistant.
@@ -47,22 +52,49 @@ A research project to support question answering over lengthy forensic case docu
 - Exploring retrieval relevance, response reliability and human verification.
 
 ### 3. Speech Emotion Recognition using MATLAB
+
 - Developed a speech emotion recognition system using MFCC feature extraction.
 - Applied Support Vector Machine (SVM) classifiers.
 - Used digital signal processing and machine learning techniques.
 
 ### 4. IoT-Based Smart Vaccine Storage and Cold Chain Management
+
 - Designed an IoT-based monitoring system for temperature-sensitive vaccine storage.
 - Targeted the required 2°C–8°C temperature range.
 - Integrated sensors, a microcontroller and an LCD interface.
 
 ### 5. Smart Mobility Aid
+
 - Developed a sensor-based mobility assistance system.
 - Focused on real-time obstacle detection and environmental awareness.
 
 ### 6. Wanderlust Edge – DevOps and WebGL Integration
+
 - Built an automated travel portal featuring an interactive 3D globe.
-- Worked with GitHub Workflows for automated testing and deployment.
+- Worked with GitHub workflows for automated testing and deployment.
+
+### 7. Automated CI/CD Pipeline – DevOps Project
+[View Repository](https://github.com/mnmanya7-coder/My-DevOps-Project)
+
+Collaborative DevOps project demonstrating automated static website deployment and CI/CD workflow automation.
+
+**Project highlights:**
+- GitHub Actions workflow automation.
+- Automated HTML quality validation using HTMLHint.
+- Lighthouse-based performance auditing.
+- Static website deployment through GitHub Pages.
+- Exploration of security-oriented workflow design.
+
+### 8. Wanderlust Backend – Travel Discovery REST API
+[View Repository](https://github.com/mnmanya7-coder/wanderlust-backend)
+
+Collaboratively developed a lightweight backend prototype for a travel discovery application using Node.js and Express.js.
+
+**My contributions:**
+- Collaboration on backend development and implementation.
+- Development of REST API functionality for retrieving destination information.
+- JSON response handling and CORS configuration.
+- Working with Express.js routing and server configuration.
 
 ## 📚 Research Experience
 
@@ -72,6 +104,7 @@ A research project to support question answering over lengthy forensic case docu
 Working on research and manuscript development in machine learning, LLMs, knowledge graphs and semantic intelligence.
 
 Research contributions include:
+
 - First author: Knowledge Graph Synthesis using Hybrid Semantic Strategy.
 - First author: Short Advertisements Annotation using LLM-Driven Semantic Intelligence.
 - Co-author: LLM-Based Microblog Recommendation.
@@ -101,12 +134,14 @@ Research contributions include:
 
 ## 🌱 Currently Exploring
 
-- LLM applications and RAG architectures
-- Agentic AI and intelligent workflows
-- Knowledge representation and semantic systems
-- Trustworthy and reliable AI
-- Research-driven software development
-- Interdisciplinary AI and engineering applications
+- LLM applications and RAG architectures.
+- Agentic AI and intelligent workflows.
+- Knowledge representation and semantic systems.
+- Trustworthy and reliable AI.
+- Backend engineering and API development.
+- CI/CD and DevOps automation.
+- Research-driven software development.
+- Interdisciplinary AI and engineering applications.
 
 ---
 
